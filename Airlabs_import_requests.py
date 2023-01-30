@@ -2,7 +2,7 @@ import requests
 import json
 
 params = {
-  'api_key': '7e94f961-2fcf-44aa-b3ee-f99146a1b053',
+  'api_key': 'APIKEY_HERE',
   'params1': 'value1'
 }
 method = 'ping'
