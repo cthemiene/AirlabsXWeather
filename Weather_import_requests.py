@@ -2,7 +2,7 @@ import requests
 import json
 
 # Set the API key
-api_key = "TGEAxQmxbqSEIeobYDfCrIRiFApdnaxF"
+api_key = "APIKEY_HERE"
 
 # Set the station ID
 station_id = "GHCND:USW00014739"
